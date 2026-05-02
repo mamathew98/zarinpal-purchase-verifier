@@ -5,8 +5,8 @@
   ```
 {
   'zarin_tokens' {
-    "com.test.app1": "Bearer ...."
-    "com.test.app2": "Bearer ...."
+    "com.test.app1": "...."
+    "com.test.app2": "...."
   }
 }
 ```
